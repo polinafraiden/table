@@ -74,7 +74,7 @@ tbody td:last-child, thead th:last-child {
 
 td, th {
   text-align: left;
-  padding: 8px;
+  padding: 10px;
 }
 
 tr:nth-child(even) {
@@ -84,4 +84,24 @@ tr:nth-child(even) {
 .top-raw {
     background-color: #6A8FA9;
 
+}
+
+.circle
+{
+    width:70px;
+    height:70px;
+    border-radius:35px;
+    font-size:14px;
+    color:#000;
+    line-height: 25px;
+    text-align:center;
+    background:#6A8FA9
+}
+
+
+
+.date {
+    display: inline;
+    font-size: 12px;
+    text-align: right;
 }

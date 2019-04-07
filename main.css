@@ -101,7 +101,7 @@ tr:nth-child(even) {
 
 
 .date {
-    display: inline;
+    display: block;
     font-size: 12px;
     text-align: right;
 }

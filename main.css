@@ -6,7 +6,7 @@ body {
     color: #fff;
 }
 
-table.scroll {
+.scroll {
     border: 2px solid white;
     border-spacing: 0;
 }
@@ -64,7 +64,7 @@ thead tr th {
     line-height: 50px;
 }
 
-tbody { border-top: 2px solid black; }
+
 
 tbody td:last-child, thead th:last-child {
     border-right: none !important;
